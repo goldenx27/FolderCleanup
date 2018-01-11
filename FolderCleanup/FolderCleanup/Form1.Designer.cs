@@ -75,7 +75,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(330, 20);
             this.textBox1.TabIndex = 12;
-            this.textBox1.Text = "C:\\Program Files (x86)\\Waterfall-Security\\WfRx\\rx\\Channel2\\Incoming\\";
+            this.textBox1.Text = "C:\\CleanupFolder\\";
             // 
             // button1
             // 
