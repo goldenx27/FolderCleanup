@@ -1,0 +1,9 @@
+c:\users\ronen\documents\visual studio 2015\Projects\FolderCleanup\FolderCleanup\bin\Debug\FolderCleanup.exe.config
+c:\users\ronen\documents\visual studio 2015\Projects\FolderCleanup\FolderCleanup\bin\Debug\FolderCleanup.exe
+c:\users\ronen\documents\visual studio 2015\Projects\FolderCleanup\FolderCleanup\bin\Debug\FolderCleanup.pdb
+c:\users\ronen\documents\visual studio 2015\Projects\FolderCleanup\FolderCleanup\obj\Debug\FolderCleanup.Properties.Resources.resources
+c:\users\ronen\documents\visual studio 2015\Projects\FolderCleanup\FolderCleanup\obj\Debug\FolderCleanup.csproj.GenerateResource.Cache
+c:\users\ronen\documents\visual studio 2015\Projects\FolderCleanup\FolderCleanup\obj\Debug\FolderCleanup.exe
+c:\users\ronen\documents\visual studio 2015\Projects\FolderCleanup\FolderCleanup\obj\Debug\FolderCleanup.pdb
+c:\users\ronen\documents\visual studio 2015\Projects\FolderCleanup\FolderCleanup\obj\Debug\FolderCleanup.Form1.resources
+c:\users\ronen\documents\visual studio 2015\Projects\FolderCleanup\FolderCleanup\obj\Debug\FolderCleanup.csprojResolveAssemblyReference.cache
